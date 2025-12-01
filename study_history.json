@@ -1,0 +1,79 @@
+[
+    {
+        "timestamp": "2025-12-01 13:55:45",
+        "user_question": "give me a quiz on generative ai",
+        "ai_answer": "Q1: What is the primary function of Generative AI?\nA) To analyze and understand human language\nB) To generate new, unique content such as images, music, or text\nC) To classify and categorize data into predefined categories\nD) To make predictions based on historical data",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 13:55:52",
+        "user_question": "a",
+        "ai_answer": "\u274c Wrong. Correct answer was B\n\nQ2: Which of the following is an example of a Generative AI model?\nA) Decision Tree\nB) Random Forest\nC) Generative Adversarial Network (GAN)\nD) Support Vector Machine (SVM)",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 13:55:54",
+        "user_question": "d",
+        "ai_answer": "\u274c Wrong. Correct answer was C\n\n\ud83c\udf89 Quiz finished! Your score: **0/2**",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 13:58:00",
+        "user_question": "generate a quiz on python",
+        "ai_answer": "Q1: What is the primary use of the 'print()' function in Python?\nA) To assign a value to a variable\nB) To print output to the screen\nC) To import a module\nD) To create a loop",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 13:58:10",
+        "user_question": "b",
+        "ai_answer": "\u2705 Correct!\n\nQ2: Which of the following is a data type in Python that is used to store a collection of items?\nA) String\nB) Integer\nC) Float\nD) List",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 13:58:20",
+        "user_question": "d",
+        "ai_answer": "\u2705 Correct!\n\n\ud83c\udf89 Quiz finished! Your score: **2/2**",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 14:03:08",
+        "user_question": "give me quiz on machine learning",
+        "ai_answer": "Q1: What is the primary goal of supervised learning in machine learning?\nA) To identify patterns in unsupervised data\nB) To make predictions based on labeled data\nC) To classify data into predefined categories\nD) To optimize a model for maximum accuracy",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 14:03:12",
+        "user_question": "b",
+        "ai_answer": "The letter \"B\" is the second letter of the modern English alphabet. It is a consonant and is pronounced with an open, voiced bilabial stop. Examples of words that start with the letter \"B\" include \"boy,\" \"ball,\" and \"book.\"",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 14:05:35",
+        "user_question": "give me quiz on python",
+        "ai_answer": "Q1: What is the purpose of the 'print()' function in Python?\nA) To read user input\nB) To display output on the screen\nC) To store data in a variable\nD) To create a loop",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 14:05:39",
+        "user_question": "b",
+        "ai_answer": "\u2705 Correct!!\n\nQ2: Which of the following is a data type in Python that is used to store a collection of items?\nA) String\nB) Integer\nC) Float\nD) List",
+        "quiz_attempted": false,
+        "quiz_score": null
+    },
+    {
+        "timestamp": "2025-12-01 14:05:48",
+        "user_question": "a",
+        "ai_answer": "\u274c Wrong. Correct answer was D\n\n\ud83c\udf89 Quiz finished!! Your Score: 1/2",
+        "quiz_attempted": true,
+        "quiz_score": 1
+    }
+]
